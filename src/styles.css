@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+/* Importações do Keenicons */
+@import "./metronic/vendors/keenicons/duotone/style.css";
+@import "./metronic/vendors/keenicons/filled/style.css";
+@import "./metronic/vendors/keenicons/outline/style.css";
+@import "./metronic/vendors/keenicons/solid/style.css";
+
+/* Diretivas do Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Seu CSS personalizado */
+/* Outras regras CSS aqui */

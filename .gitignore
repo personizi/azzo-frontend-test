@@ -5,6 +5,8 @@
 /tmp
 /out-tsc
 /bazel-out
+/src/metronic
+/src/assets/metronic
 
 # Node
 /node_modules
