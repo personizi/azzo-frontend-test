@@ -6,7 +6,7 @@
 /out-tsc
 /bazel-out
 /src/metronic
-/src/assets/media
+/src/assets
 
 # Node
 /node_modules
